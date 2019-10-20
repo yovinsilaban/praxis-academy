@@ -1,0 +1,72 @@
+C:\Users\Fin>ping google.com
+
+Pinging google.com [216.239.38.120] with 32 bytes of data:
+Reply from 216.239.38.120: bytes=32 time=130ms TTL=53
+Reply from 216.239.38.120: bytes=32 time=134ms TTL=53
+Reply from 216.239.38.120: bytes=32 time=133ms TTL=53
+Reply from 216.239.38.120: bytes=32 time=132ms TTL=53
+
+Ping statistics for 216.239.38.120:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 130ms, Maximum = 134ms, Average = 132ms
+C:\Users\Fin>dir
+ Volume in drive C has no label.
+ Volume Serial Number is DAAA-DA29
+
+ Directory of C:\Users\Fin
+
+07/10/2019  22:28    <DIR>          .
+07/10/2019  22:28    <DIR>          ..
+05/10/2019  20:10    <DIR>          .android
+11/09/2019  23:46    <DIR>          .AndroidStudio3.2
+12/09/2019  00:08    <DIR>          .AndroidStudio3.5
+11/09/2019  08:36    <DIR>          .dia
+05/10/2019  19:54    <DIR>          .gradle
+11/09/2019  23:55    <DIR>          .idlerc
+11/09/2019  15:28    <DIR>          .nbi
+11/09/2019  15:23    <DIR>          .oracle_jre_usage
+11/09/2019  15:03               332 .packettracer
+11/09/2019  15:14    <DIR>          .pencil
+07/10/2019  22:28    <DIR>          .quokka
+18/10/2019  19:26    <DIR>          .VirtualBox
+07/10/2019  22:24    <DIR>          .vscode
+30/09/2019  19:22    <DIR>          3D Objects
+11/09/2019  13:58    <DIR>          Adobe Flash Builder 4.6
+05/10/2019  19:52    <DIR>          AndroidStudioProjects
+11/09/2019  15:01    <DIR>          Cisco Packet Tracer 7.0
+11/09/2019  15:06    <DIR>          Cisco Packet Tracer 7.2.1
+30/09/2019  19:22    <DIR>          Contacts
+13/10/2019  20:45    <DIR>          Desktop
+14/10/2019  14:14    <DIR>          Documents
+08/10/2019  18:18    <DIR>          Downloads
+30/09/2019  19:22    <DIR>          Favorites
+05/10/2019  20:12    <DIR>          go
+30/09/2019  19:22    <DIR>          Links
+30/09/2019  19:22    <DIR>          Music
+18/10/2019  19:20    <DIR>          OneDrive
+30/09/2019  19:22    <DIR>          Pictures
+30/09/2019  19:22    <DIR>          Saved Games
+30/09/2019  19:22    <DIR>          Searches
+30/09/2019  19:22    <DIR>          Videos
+11/09/2019  21:09    <DIR>          VirtualBox VMs
+               1 File(s)            332 bytes
+              33 Dir(s)  134.402.162.688 bytes free
+C:\Users\Fin>control mouse
+C:\Users\Fin>control keyboard
+C:\Users\Fin>regedit
+C:\Users\Fin>taskmgr
+C:\Users\Fin>magnify
+C:\Users\Fin>write
+C:\Users\Fin>fsquirt
+C:\Users\Fin>calc
+C:\Users\Fin>certmgr.msc
+C:\Users\Fin>charmap
+C:\Users\Fin>dcomcnfg
+C:\Users\Fin>compmgmt.msc
+C:\Users\Fin>timedate.cpl
+C:\Users\Fin>devmgmt.msc
+C:\Users\Fin>cleanmgr
+C:\Users\Fin>control desktop
+C:\Users\Fin>control folders
+C:\Users\Fin> inetcpl.cpl
