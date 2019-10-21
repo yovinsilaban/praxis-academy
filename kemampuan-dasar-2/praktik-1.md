@@ -2,7 +2,7 @@
 
 
 
-![alt_text](https://github.com/yovinsilaban/praxis-academy-master/edit/master/kemampuan-dasar-2/images/1.png)
+![alt_text](https://github.com/yovinsilaban/praxis-academy-master/tree/master/kemampuan-dasar-2/images/1.png)
 
 ![install_2()](https://github.com/yovinsilaban/praxis-academy/blob/master/kemampuan-dasar-2/images/2.png)
 
