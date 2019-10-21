@@ -2,7 +2,7 @@
 
 ## Step 1: Alice creates a new project and hosts it on GitHub
 
-![alt_text](https://github.com/yovinsilaban/praxis-academy/blob/master/kemampuan-dasar-2/images/1.png)
+![alt_text](https://github.com/yovinsilaban/praxis-academy-master/tree/master/kemampuan-dasar-2/images1.png)
 
 ![install_2()](https://github.com/yovinsilaban/praxis-academy/blob/master/kemampuan-dasar-2/images/2.png)
 
